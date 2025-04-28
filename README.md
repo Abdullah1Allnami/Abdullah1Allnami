@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Abdullah Alnami</h1>
 <h3>Machine Learning Engineer | Full Stack Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+full-stack+apps+%26+ML+projects;Let's+create+something+amazing+together!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!" />
 
 </div>
 
