@@ -13,12 +13,8 @@
 - 🤖 Deep Learning and Transformer Architectures  
 - 🌐 Advanced Full-Stack Development with Next.js and Node.js  
 - ☁️ Docker for ML and Web App Deployment  
-- 🗃️ Efficient Database Design with PostgreSQL and MongoDB  
-
-💼 Currently building:  
-- 🔥 [GPT-based Language Model](https://github.com/Abdullah1Allnami/GPT-based-Language-Model) – Transformer-based language model with custom vocabulary and batching pipelines  
-- 🎥 [Group Activity Recognition](https://github.com/Abdullah1Allnami/Group-Activity-Recognition) – Deep learning model for analyzing group behavior in video datasets  
-
+- 🗃️ Efficient Database Design with PostgreSQL and MongoDB
+- 
 ---
 
 ### 🧰 Languages and Tools
