@@ -14,7 +14,7 @@
 - 🌐 Advanced Full-Stack Development with Next.js and Node.js  
 - ☁️ Docker for ML and Web App Deployment  
 - 🗃️ Efficient Database Design with PostgreSQL and MongoDB
-- 
+
 ---
 
 ### 🧰 Languages and Tools
