@@ -7,6 +7,20 @@
 
 </div>
 
+---
+
+🚀 About Me
+
+* 🎓 Graduate in Artificial Intelligence from Cairo University
+* 🤖 ML/DL Engineer with a strong focus on Computer Vision and Multimodal AI
+* 💻 Full-Stack Developer experienced with React, Next.js, Node.js, and Django
+* 🧩 Problem Solver with solid foundations in Data Structures and Algorithms
+* 🏆 Active in Kaggle competitions and implementing research papers from scratch
+* 🛠️ Passionate about building end-to-end AI systems, from model development to deployment
+* 📚 I enjoy turning research ideas into practical, working applications
+
+---
+
 ### 🧰 Languages and Tools
 
 <p align="left">
